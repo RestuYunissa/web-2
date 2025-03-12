@@ -130,3 +130,6 @@
                 </div>
             </div>
         </main>
+<?php
+    include_once ("pages/footer.php");
+?>
